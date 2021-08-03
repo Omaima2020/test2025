@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est D49C-82EB
+
+ R‚pertoire de C:\Users\omaima.benbouk\Desktop\test23
+
+03/08/2021  21:37    <DIR>          .
+03/08/2021  21:37    <DIR>          ..
+03/08/2021  21:37                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  348ÿ033ÿ941ÿ504 octets libres
